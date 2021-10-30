@@ -1,1 +1,2 @@
-Hi, I'm a chapter3 and now I'll push it to repository till now I'm gonna be a masster
+Hi, I'm a chapter3 and now I'll push it to repository till now I'm gonna be a masster.
+Wow That's was amazing !!! now I can deal with a git tech.
